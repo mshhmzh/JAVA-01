@@ -12,7 +12,7 @@ code 文件夹下 HelloClassLoader.java 文件
 
 - 3 画一张图，展示 Xmx、Xms、Xmn、Metaspache、DirectMemory、Xss
 这些内存参数的关系
-![avatar](./img/relation.png)
+![relation](./img/relation.png)
 
 
 - 4（可选）、检查一下自己维护的业务系统的 JVM 参数配置，用 jstat 和 jstack、jmap
